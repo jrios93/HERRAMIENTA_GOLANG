@@ -1,0 +1,23 @@
+# Guardado: 2025-06-22 01:11:16
+***********LISTA REPOSICIÓN*********
+......9999 REPOSICION 01:11 MGAVINO
+......9999 REPOSICION 01:11 JRIOS
+......9999 REPOSICION 01:11 BTAIPE
+......9999 REPOSICION 01:11 MQUINTANA
+
+
+
+**************COMSITEC**********
+......0017 NCRISOSTOMO 01:11 JRIOS
+
+
+
+**************ZETTACOM**********
+......0154 LGARCIA 01:11 MGAVINO
+......0154 LGARCIA 01:11 JRIOS
+......0083 JVILCATOMA 01:11 JRIOS
+...... 0082 RAPONTE 01:11 JRIOS
+
+# Puedes editar este texto libremente
+# Usa 01:11 donde quieras que aparezca la hora actual
+# El archivo se guarda automáticamente cada 5 segundos
